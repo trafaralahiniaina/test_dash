@@ -1,0 +1,23 @@
+├── test_dash
+│   ├── laboratoire
+│   └── .next
+│       ├── modules
+│       └── public
+│           ├── next.svg
+│           └── vercel.svg
+│       └── src
+│           ├── app
+│           └── components
+│               ├── .eslintrc.json
+│               ├── .gitignore
+│               ├── next-env.d.ts
+│               ├── next.config.js
+│               ├── package-lock.json
+│               ├── package.json
+│               ├── postcss.config.js
+│               └── README.md
+│       └── tailwind.config.js
+│       └── globals.css
+│   ├── favicon.ico
+│   ├── globals.css
+│   └── layout.tsx
